@@ -1,0 +1,11 @@
+# Insights de Usuario — El tiempo en la universidad y ventanas libres
+
+
+## 1. Insight del Costo Logístico (Estudiantes lejanos)
+* **Estudiante de los primeros años con trayectos largos** necesita *un espacio continuo de permanencia académica o alternativas de estudio eficientes en el campus* porque *el tráfico caótico de la ciudad convierte el retorno a mitad de jornada en una pérdida de tiempo y recursos económicos insostenible*, y hoy lo resuelve con *quedarse estancado físicamente en las áreas comunes comiendo por aburrimiento o platicando*, lo que le falla en *que rompe su ritmo de productividad, causa fatiga mental prematura antes de las tareas de la noche y genera gastos hormiga imprevistos*.
+
+## 2. Insight de Deficiencia de Infraestructura (Estudiantes con alta carga de lectura)
+* **Estudiante de carreras de ciencias de la salud** necesita *un ecosistema físico con conectividad y aislamiento acústico adecuado para el repaso intermedio* porque *las ventanas libres excesivamente largas de 4 horas desactivan el hábito de estudio si no hay condiciones de soporte tecnológico básicos*, y hoy lo resuelve con *buscar mesas al aire libre o refugiarse en una biblioteca encerrada que induce el sueño*, lo que le falla en *que la escasez de tomacorrientes inutiliza sus dispositivos de lectura digital y el ruido ambiental constante bloquea por completo su concentración*.
+
+## 3. Insight del Costo de Oportunidad Profesional (Perspectiva Docente)
+* **Docente con práctica profesional independiente y clínica privada** necesita *agrupación compacta de bloques de clases teóricas y prácticas en un solo turno matutino* porque *la fragmentación de horarios a lo largo del día interrumpe directamente la atención y agenda de sus pacientes externos reduciendo sus ingresos autónomos*, y hoy lo resuelve con *trasladarse de forma apresurada a su clínica durante los espacios libres o calificar reportes dentro de su propio vehículo*, lo que le falla en *que duplica los tiempos de traslado bajo estrés y extiende la jornada laboral de planificación académica hasta altas horas de la noche en el hogar, sacrificando su descanso semanal*.
