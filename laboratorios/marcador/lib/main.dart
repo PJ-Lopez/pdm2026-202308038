@@ -198,13 +198,11 @@ class _TarjetaEquipo extends StatelessWidget {
                 IconButton.filledTonal(
                   onPressed: onRestar,
                   icon: const Icon(Icons.remove),
-                  tooltip: '-1',
                 ),
                 const SizedBox(width: 8),
                 IconButton.filled(
                   onPressed: onSumar,
                   icon: const Icon(Icons.add),
-                  tooltip: '+1',
                 ),
               ],
             ),
